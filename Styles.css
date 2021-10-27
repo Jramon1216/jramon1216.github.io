@@ -1,16 +1,65 @@
 
 
 
-#results {
+#results 
+{
     
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     display:none;
-  }
+    margin-bottom: 20px;
+}
 
- /*html 
  
+ html
  {
 
-  background-color: orchid;
+  background-color: rgb(150, 74, 3);
+  text-align: center;
 
- }*/
+ }
+
+
+ body
+{
+
+  margin: 30px auto;
+  border-radius: 100px;
+  border-style: solid;
+  border-width: 5px;
+  padding: 5px;
+  width: 500px;
+  background-color: seashell;
+
+}
+
+
+h1
+
+{
+
+  /*background-color: royalblue;*/
+  border-radius: 100px;
+  border-width: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+form
+
+{
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+/*background-color: seagreen;*/
+
+}
+
+hr
+
+
+{
+
+  width: 400px;
+
+
+}
+
